@@ -14,7 +14,5 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-const app = initializeApgit add .
-    git commit -m "Your commit message"
-git push origin main
-p(firebaseConfig);
+const app = initializeApgit;
+``
